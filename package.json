@@ -1,0 +1,27 @@
+{
+  "name": "teo-cookie-session-extension",
+  "version": "1.0.0",
+  "description": "Simple cookie-based session middleware for Teo.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antyfive/teo-cookie-session-extension.git"
+  },
+  "keywords": [
+    "Teo.JS",
+    "teo.js",
+    "middleware",
+    "extension",
+    "session",
+    "cookie"
+  ],
+  "author": "Andrew Teologov <teologov.and@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antyfive/teo-cookie-session-extension/issues"
+  },
+  "homepage": "https://github.com/Antyfive/teo-cookie-session-extension#readme"
+}
