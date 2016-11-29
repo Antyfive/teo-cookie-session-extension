@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Antyfive/teo-cookie-session-extension/issues"
   },
-  "homepage": "https://github.com/Antyfive/teo-cookie-session-extension#readme"
+  "homepage": "https://github.com/Antyfive/teo-cookie-session-extension#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-alpha.2"
+  }
 }
