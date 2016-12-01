@@ -15,7 +15,7 @@ module.exports = {
         {
             name: "cookie-session",
             module: "teo-cookie-session-extension",
-            config: {
+            config: {   // see https://github.com/expressjs/cookie-session for more information
                 secret: "mySecret",
                 name: "sessionName",
                 keys: ["my", "key"],
