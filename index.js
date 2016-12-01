@@ -17,7 +17,7 @@ module.exports = {
 
             yield function(next) {
                 cookieSession(this.req, this.res, next);
-            };
+            }.bind(this);
 
             yield next;
         });
