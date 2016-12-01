@@ -1,6 +1,6 @@
 {
   "name": "teo-cookie-session-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple cookie-based session middleware for Teo.JS",
   "main": "index.js",
   "scripts": {
